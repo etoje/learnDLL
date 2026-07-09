@@ -7,6 +7,7 @@ name = "pypi"
 pandas = "*"
 scikit-learn = "*"
 torch = "*"
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"
